@@ -64,7 +64,7 @@ Contains the optimization formulation used for comparison with RL-based control.
 
 ## Requirements
 
-Example Python dependencies:
+Python dependencies:
 
 ```bash
 numpy
@@ -72,6 +72,7 @@ pandas
 torch
 gymnasium
 matplotlib
+pyomo
 ```
 
 ---
